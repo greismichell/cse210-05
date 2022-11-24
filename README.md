@@ -25,7 +25,7 @@ Cycle is a game where the players try to cut each other off using cycles that le
    * Players can move up, down, left and right...
        * Player one moves using the W(up), S(down), A(left) and D(right) keys.
        * Player two moves using the I(up), K(down), J(left) and L(right) keys.
-       * There are gems that need to be catch them and each of them apper randomly around the screen and with values in range 1 to 8 in different colors.
+       * There are gems that need to be catch and each of them apper randomly around the screen and with values in range 1 to 8 in different colors.
 
    * Each player's trail grows as they move and catch gems.
    * Players try to maneuver so the opponent collides with their trail.
